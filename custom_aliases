@@ -1,0 +1,8 @@
+# Make moving around easier
+alias ..="cd ../"
+alias ...="cd ../../"
+alias 3.="cd ../../../"
+alias 4.="cd ../../../../"
+
+# mines stuff
+alias gowork="ssh bpayton@wendian.mines.edu"
